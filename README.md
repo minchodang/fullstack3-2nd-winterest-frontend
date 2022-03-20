@@ -6,14 +6,17 @@
 
 [winterest 구현 영상](https://youtu.be/sfeJfl8CoCw)
 
-## 개발 후기
-
-
 ## Members
 
 <프론트 엔드>
 
 <img src="https://user-images.githubusercontent.com/90169703/152270453-d84bbe12-ce24-4b7a-94a2-319125ee3f11.jpg" width="50px" height="50px"/> 강민수 &nbsp; [기술블로그](https://velog.io/@minsu8834), [깃허브](https://github.com/minchodang)
+
+
+## 개발 후기
+
+[후기 보러 가기](https://velog.io/@minsu8834/%EC%9C%88%ED%84%B0%EB%A0%88%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%9C-%EB%92%A4-%EB%8B%A4%EC%8B%9C-%EB%B3%BC%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9A%8C%EA%B3%A0%EB%A1%9D-1%EB%B6%80)
+
 
 #
 
